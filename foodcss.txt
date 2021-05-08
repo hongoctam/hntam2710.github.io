@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  display: flex;
+  list-style-type: none;
+}
+.nav{
+  width: 100%;
+  background: black;
+  height: 50px;
+}
+.btn{
+  background-color: #FBBC01;
+  border: none;
+  color: white;
+  padding: 10px 3px ;
+  font-size: 16px; 
+}
+.title li{
+ margin-left: 35vw;
+ font-family: cursive;
+ color: #FBBC01; 
+ font-size: 40px;
+}
+img{
+  height: 40vh;
+  width: 30vw;
+}
+
+
+

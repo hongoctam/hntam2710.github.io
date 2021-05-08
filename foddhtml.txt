@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="food.css">
+</head>
+<body>
+     <header>
+     	<div class="back">
+     	          <div class="nav"></div>
+
+          	<a href="file:///D:/nh%C3%A1p1/doan.html"><button class="btn">
+                    <li>Back</li>
+               </button></a>
+
+     	</div>
+     	<div class="title">
+     		<li>Món Ăn Đặt Sản</li>
+     	</div>
+     </header>
+     <main>
+     	<div>
+     		<img src="img/banhxeo.jfif">
+     	</div>
+     	<div>
+     		
+     	</div>
+     	<div>
+     		
+     	</div>
+
+     </main>
+</body>
+</html>

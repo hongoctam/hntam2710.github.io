@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="doan.css">
+	<title></title>
+</head>
+<body>
+<header>
+	<input type="checkbox">
+	<div class="menu-icon">
+		<div class="menu-line">
+			
+		</div>
+	</div>
+	<div class="menu-item">
+		<li><a href="">trang chủ</a></li>
+		<li><a href="">thức ăn</a></li>
+		<li><a href="">ăn vặt</a></li>
+		<li><a href="">thức uống</a></li>
+		<li><a href="">đánh giá</a></li>
+	</div>
+	<div class="header-text">
+		<h1>Ẩm thực Đà Nẵng</h1>
+		<a href="">Đặt bàn</a>
+	</div>
+	<footer>
+		
+	</footer>
+</header>
+</body>
+</html>
